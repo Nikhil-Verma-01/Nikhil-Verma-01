@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Verma</h1>
-<h3 align="center">A passionate Software Developer Engineer from India</h3>
+<h3 align="center">A passionate Software Developer Engineer, Aspiring future Entrepreneur from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-verma-01&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-verma-01" /> </p>
 
