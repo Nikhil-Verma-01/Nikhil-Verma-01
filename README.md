@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Backend, SKlearn, Low-Level Design and Neural Network**
 
-- 💬 Ask me about **react , aritifical intelligence**
+- 💬 Ask me about **Entrepreneurship, New Ambitious Technology , Aritifical Intelligence**
 
 - 📫 How to reach me **nik.h0ill907@gmail.com**
 
