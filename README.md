@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-verma-01&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-verma-01" /> </p>
 
-- 🌱 I’m currently learning **React,Backend, SKlearn, Low-Level Design and Neural Network**
+- 🌱 I’m currently learning **Finance-Technology(FinTech), React, Backend, SKlearn, Low-Level Design and Neural Network**
 
-- 💬 Ask me about **Entrepreneurship, New Ambitious Technology , Aritifical Intelligence**
+- 💬 Ask me about **Entrepreneurship, New Ambitious Technology , Aritifical Intelligence and FinTech**
 
 - 📫 How to reach me **nik.h0ill907@gmail.com**
 
